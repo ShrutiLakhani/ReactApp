@@ -1,2 +1,2 @@
-# ReactApp
+# Emoji Interpretor
 Created with CodeSandbox
